@@ -1,2 +1,2 @@
 # nateking.ca
-Personal website
+Just a repo of my personal website, because why not?

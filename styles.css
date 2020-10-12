@@ -1148,7 +1148,7 @@ Responsive styles - HTML tags, Classes & Layout*/
 			right: auto;
 			bottom: auto;
 			transform: scale(3);
-			z-index: 9;
+			z-index: -1;
 		}
 		#section-07-content h2 {
 			font-size: 45px;

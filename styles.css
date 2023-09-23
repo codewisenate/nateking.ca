@@ -303,6 +303,7 @@ body.home .badge-box {
 /* SECTION THREE - I can create */
 #section-03 .skewed-bg {
 	background: #000 url(/images/night-sky-bg-02.jpg) top right no-repeat;
+	background-size: cover;
 	min-height: 100vh;
 	z-index: 1; /* above card */
 	border-top: 8px solid #fff;
